@@ -2,7 +2,7 @@
 
 ### About
 
-- Continuare si imbunatarile a [proiectului de la Baze de date](https://github.com/Andrei137/Database-Project)
+Continuare si imbunatarile a proiectului de la [Baze de date](https://github.com/Andrei137/Database-Project)
  
 ### Cerinte obligatorii
 
